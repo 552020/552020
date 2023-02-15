@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is Stefano. 
+
+Some facts about me:
+
 
 <!--
 **552020/552020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
