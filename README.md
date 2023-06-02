@@ -2,9 +2,9 @@
 
 I'm **Stefano** (aka _552020_ on GitHub)
 
-I'm a Software Developer at **[Asabina GmbH](https://www.asabina.de/)**, where we craft awesome pieces of code that push forward the boundaries of technology.
+I work as a Software Developer at **[Asabina GmbH](https://www.asabina.de/)**, where we craft awesome pieces of code that push forward the boundaries of technology.
 
-In addition to my work, I'm also enrolled at **[42 Berlin](https://42berlin.de)**, where I'm having fun learning pointers acrobatic in C.
+In addition to it, I'm also enrolled at **[42 Berlin](https://42berlin.de)**, where I'm having fun learning pointers acrobatic in C.
 
 I can do:
 
