@@ -1,8 +1,10 @@
-### Hi there, I'm Stefano 👋
+### Hi there! 👋
 
-I'm a Software Developer at [Asabina GmbH](https://www.asabina.de/), where we craft awesome pieces of software that push the boundaries of technology.
+I'm **Stefano** (aka _552020_ on GitHub)
 
-In addition to my work, I'm also enrolled at [42 Berlin](https://42berlin.de), where I'm having fun learning to move pointers around in C.
+I'm a Software Developer at **[Asabina GmbH](https://www.asabina.de/)**, where we craft awesome pieces of code that push forward the boundaries of technology.
+
+In addition to my work, I'm also enrolled at **[42 Berlin](https://42berlin.de)**, where I'm having fun learning pointers acrobatic in C.
 
 I can do:
 
@@ -21,8 +23,9 @@ I'm currently on my way to quit VS Code and embrace the VIM lifestyle: I can alr
 
 **F.A.Q.**
 
-Q: Where does 552020 comes from?
-A: 55 was my courier number when I was working as bike messenger, 2020 was the year I joined GitHub.
+Q: Wondering where '552020' comes from?
+
+A: '55' was my courier number when I worked as a bike messenger, and '2020' was the year I joined GitHub. So, 55 + 2020 = 552020, not 2075. Which is the reason why we need type safety!
 
 <!-- ## Hi there, I'm Stefano 👋
 
