@@ -1,8 +1,6 @@
 ### Hi there! 👋
 
-I'm **Stefano** (aka _552020_ on GitHub)
-
-I work as a Software Developer at **[Asabina GmbH](https://www.asabina.de/)**, where we craft awesome pieces of code that push forward the boundaries of technology.
+I'm **Stefano** (aka _552020_ on GitHub), I work as a Software Developer at **[Asabina GmbH](https://www.asabina.de/)**, where we craft awesome pieces of code that push forward the boundaries of technology.
 
 In addition to it, I'm also enrolled at **[42 Berlin](https://42berlin.de)**, where I'm having fun learning pointers acrobatic in C.
 
