@@ -15,9 +15,9 @@ I can do: 🛠️
 - TypeScript
 - Tailwind
 
-...and a bunch of other stuff like [HTML](https://www.youtube.com/watch?v=Gj5Q-x3OrWo)!
+... and a bunch of other stuff like [HTML](https://www.youtube.com/watch?v=Gj5Q-x3OrWo)!
 
-I'm currently on my way to quit VS Code and embrace the VIM lifestyle: I can already exit it!
+I'm currently on my way to quit VS Code and embrace the VIM lifestyle! 😎
 
 **F.A.Q.**
 
