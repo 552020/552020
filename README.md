@@ -17,7 +17,7 @@ I can do: 🛠️
 
 ... and a bunch of other stuff like [HTML](https://www.youtube.com/watch?v=Gj5Q-x3OrWo)!
 
-I'm currently on my way to quit VS Code and embrace the VIM lifestyle! 😎
+I'm currently working on an implementation of a web server in C++98. 
 
 **F.A.Q.**
 
