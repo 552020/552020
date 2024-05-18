@@ -8,12 +8,12 @@ I can do: 🛠️
 
 - Bash
 - C
+- C++
 - CSS
 - Git
 - JavaScript
 - React
 - TypeScript
-- Tailwind
 
 ... and a bunch of other stuff like [HTML](https://www.youtube.com/watch?v=Gj5Q-x3OrWo)!
 
