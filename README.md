@@ -17,7 +17,13 @@ I can do: 🛠️
 
 ... and a bunch of other stuff like [HTML](https://www.youtube.com/watch?v=Gj5Q-x3OrWo)!
 
-I'm currently working on an implementation of a web server in C++98. 
+I did recently:
+
+- [x] a web server in C++98 (with lmangall, dantol29)
+- [x] a Telegram Mini App, ChatPay, to enable Telegram users to sell their (anonymized) chats to train AI (with lmangall, dantol29, Danielg1406 & mrizhakov)
+
+I'm working on:
+- [ ] an online Pong game, as the final project @42Berlin. 
 
 **F.A.Q.**
 
