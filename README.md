@@ -21,9 +21,7 @@ I did recently:
 
 - [x] a web server in C++98 (with lmangall, dantol29)
 - [x] a Telegram Mini App, ChatPay, to enable Telegram users to sell their (anonymized) chats to train AI (with lmangall, dantol29, Danielg1406 & mrizhakov)
-
-I'm working on:
-- [ ] an online Pong game, as the final project @42Berlin. 
+- [x] an [online Pong game](https://github.com/42fh/transcendence), as the final project @42Berlin. (with lmangall, dantol29, @42fh & T.R.A.S.H.)
 
 **F.A.Q.**
 
