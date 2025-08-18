@@ -2,7 +2,7 @@
 
 I'm **Stefano** and I work as a Software Developer at **[Asabina GmbH](https://www.asabina.de/)**, where we craft awesome pieces of code that push forward the boundaries of technology. 🚀
 
-I'm also enrolled at **[42 Berlin](https://42berlin.de)**, where I'm having fun learning pointers acrobatic in C. 🤹‍
+I'm a graduate of **[42 Berlin](https://42berlin.de)**. 
 
 I can do: 🛠️
 
