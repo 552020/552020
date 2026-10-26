@@ -20,7 +20,6 @@ I can do: 🛠️
 
 I did recently:
 
-- [x] [fotokotti.de](https://www.fotokotti.de), the shop's site and the system behind it: shop, lab orders, tickets, invoices, the till
 - [x] [Futura](https://github.com/552020/futura_alpha_nextjs), memories kept for the long term on the Internet Computer (with lmangall)
 
 Before that:
