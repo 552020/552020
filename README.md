@@ -4,8 +4,6 @@ I'm **Stefano**, the Lead Software Developer at **[Foto Kotti](https://www.fotok
 
 I'm a graduate of [42 Berlin](https://42berlin.de). 🎓
 
-I build websites, for Foto Kotti and for shops, studios and people in Berlin and beyond: **[552020.vercel.app](https://552020.vercel.app)**.
-
 I can do: 🛠️
 
 - TypeScript and JavaScript
