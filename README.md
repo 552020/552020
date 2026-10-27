@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm **Stefano**, the Lead Software Developer at **[Foto Kotti](https://www.fotokotti.de/)**, the photo shop and lab at Kottbusser Tor in Berlin. 🚀
+I'm **Stefano**, the Lead Software Engineer at **[Foto Kotti](https://www.fotokotti.de/)**, the photo shop and lab at Kottbusser Tor in Berlin. 🚀
 
 I'm a graduate of [42 Berlin](https://42berlin.de). 🎓
 
